@@ -1,0 +1,6 @@
+{
+  "name": "BikriBondhu BD",
+  "description": "বাংলাদেশের দ্রুত ও বিশ্বস্ত স্থানীয় কেনাবেচার অনলাইন মার্কেটপ্লেস",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
